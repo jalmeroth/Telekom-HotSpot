@@ -1,0 +1,1 @@
+This script allows to Auto-Login to Telekom HotSpots.
